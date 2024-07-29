@@ -27,24 +27,24 @@ const About = () =>{
             name: "Raj Patel",
             rollno: "22BCP190",
             photo : Raj,
-            instagram:"https://www.instagram.com/____vaibhav_patel_/#",
-            linkedin:"https://www.linkedin.com/in/vaibhav-rank-366958302/#  "
+            instagram:"https://www.instagram.com/rajpatel.3_/",
+            linkedin:"https://www.linkedin.com/in/raj-patel-0ba564291/"
             
         },
         {
             name: "Nemi Shah",
             rollno: "22BCP196",
             photo : Nemi,
-            instagram:"https://www.instagram.com/____vaibhav_patel_/#",
-            linkedin:"https://www.linkedin.com/in/vaibhav-rank-366958302/#  "
+            instagram:"https://www.instagram.com/nemi_shah_29/",
+            linkedin:"https://www.linkedin.com/in/nemi-shah-a75873288/"
             
         },
         {
             name: "Ronak Panchal",
             rollno: "22BCP192",
             photo : Ronak,
-            instagram:"https://www.instagram.com/____vaibhav_patel_/#",
-            linkedin:"https://www.linkedin.com/in/vaibhav-rank-366958302/#  "
+            instagram:"https://www.instagram.com/ronak_panchal_021",
+            linkedin:"https://www.linkedin.com/in/ronak-panchal-98720a317"
             
         }
     ]
